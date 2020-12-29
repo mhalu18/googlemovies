@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11316" started-at="2020-11-23T15:26:36Z" finished-at="2020-11-23T15:26:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11316" started-at="2020-11-23T15:26:36Z" finished-at="2020-11-23T15:26:47Z">
+      <class name="testclass.testSignin">
+        <test-method status="PASS" signature="setProperty()[pri:0, instance:testclass.testSignin@3498ed]" name="setProperty" is-config="true" duration-ms="11119" started-at="2020-11-23T20:56:36Z" finished-at="2020-11-23T20:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method status="PASS" signature="singin()[pri:0, instance:testclass.testSignin@3498ed]" name="singin" duration-ms="178" started-at="2020-11-23T20:56:47Z" finished-at="2020-11-23T20:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singin -->
+      </class> <!-- testclass.testSignin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
